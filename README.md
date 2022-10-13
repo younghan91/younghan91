@@ -1,7 +1,7 @@
 # Hello 👋
 _I'm Park Young Han_
 
-I am a web developer from South Korea.
+I am a full stack developer from South Korea.
 
 enjoy ! All life is an experiment. The more experiments you make the better
 
