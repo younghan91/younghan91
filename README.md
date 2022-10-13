@@ -24,8 +24,8 @@ enjoy ! All life is an experiment. The more experiments you make the better
 [![Build Status](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)](https://travis-ci.org/joemccann/dillinger) [![Build Status](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)](https://travis-ci.org/joemccann/dillinger) [![Build Status](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)](https://travis-ci.org/joemccann/dillinger) [![Build Status](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white)](https://travis-ci.org/joemccann/dillinger) [![Build Status](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white)](https://travis-ci.org/joemccann/dillinger)
 
 ### Experience
-- <a href='https://danawa.com'>**Danawa**</a> - Web developer *(July 2014~July 2022)*
 - <a href='https://kakaovx.com'>**KakaoVX**</a> - Web developer *(August 2022~)*
+- <a href='https://danawa.com'>**Danawa**</a> - Web developer *(July 2014~July 2022)*
 - <a href='https://kluboapp.com'>**Klubo**</a> - PM, SE, DBA, Web/App developer *(personal project)* 
 - <a href='https://ayeobi.com'>**Ayeobi**</a> - PM, SE, DBA, Web/App developer *(personal project)*
 
